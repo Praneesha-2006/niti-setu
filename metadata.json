@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Niti-Setu",
+  "description": "A voice-based agricultural scheme eligibility engine that converts complex government PDFs into personalized yes/no decisions with proof and citations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
